@@ -1,12 +1,6 @@
-# Graphite
-
 ### Project run
-```sh
+```console
 docker build -t web-image .GraphiteBack
-docker-compose up
+docker-compose up 
 ```
-### Project update
-```sh
-docker-compose up -d --build
-docker-compose down
-```
+
