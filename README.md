@@ -1,6 +1,5 @@
 ### Project run
-```console
+```bat
 docker build -t web-image .GraphiteBack
 docker-compose up 
 ```
-
